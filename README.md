@@ -6,10 +6,11 @@
 <br>
 YouTube Video 
 <br> 
-<a href="" target="_blank"><img alt="Ezatpanah Extension-Functions-Youtube" src="ExtensionFunctionsCover.jpg" width="60%"></a>
+<a href="" target="_blank"><img alt="Ezatpanah Extension-Functions-Youtube" src="ExtensionFunctionCover.jpg" width="60%"></a>
 
 
-
+<br> 
+<br> 
 Article on Medium:
 <br>
 

@@ -6,13 +6,14 @@
 <br>
 YouTube Video 
 <br> 
-<a href="" target="_blank"><img alt="Ezatpanah Extension-Functions-Youtube" src="ExtensionFunctionCover.jpg" width="60%"></a>
+<a href="https://youtu.be/_7Dj9-Vte5U" target="_blank"><img alt="Ezatpanah Extension-Functions-Youtube" src="ExtensionFunctionCover.jpg" width="60%"></a>
 
 
 <br> 
 <br> 
 Article on Medium:
 <br>
+https://medium.com/@ezatpanah/how-to-use-extension-functions-in-kotlin-4b5e52e84ee5
 
 <br>
 <br>
